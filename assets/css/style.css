@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
 
+/* html { 
+  background: url(../images/nasa_pic.jpg) no-repeat center center fixed #000; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
 body {
   font-family: 'Noto Serif JP', sans-serif;
+
+}
+.no-bullets {
+  list-style-type: none;
 }
