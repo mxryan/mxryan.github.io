@@ -19,3 +19,9 @@ img {
   border: 5px solid grey;
 }
 
+.headshot {
+  max-width: 60%;
+  height: auto;
+  margin: auto;
+}
+
